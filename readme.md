@@ -1,6 +1,6 @@
 # Ahmed Bilal - Senior Frontend Developer
 
-![Profile Banner](https://raw.githubusercontent.com/itsahmedbilal/itsahmedbilal/banner.png)
+![Profile Banner](https://raw.githubusercontent.com/itsahmedbilal/itsahmedbilal/banner.gif)
 
 ## 👋 About Me
 
