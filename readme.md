@@ -20,7 +20,7 @@ I am a passionate and experienced Senior Frontend Developer with over 5 years of
 
 ## 🔥 Key Projects
 
-### [CIBC-ISBO and Simplii Financial)]
+### [CIBC-ISBO and Simplii Financial]
 
 As the lead frontend developer, I delivered a robust and scalable web application using Angular and Node.js. My contributions led to a 30% increase in team productivity and significant enhancements in code quality and application performance.
 
