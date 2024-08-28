@@ -1,10 +1,10 @@
-# Ahmed Bilal - Senior Frontend Developer
+# Ahmed Bilal - Senior Full Stack Javascript Developer
 
 ![Profile Banner](210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 ## 👋 About Me
 
-I am a passionate and experienced Senior Frontend Developer with over 5 years of experience in crafting high-performance web applications. I specialize in Angular, React, REST APIs, and micro-frontend architecture. My focus is on building scalable solutions that prioritize code quality, user experience, and maintainability.
+I am a passionate and experienced Senior JS (Frontend Oriented) Developer with over 5 years of experience in crafting high-performance web applications. I specialize in Angular, React, REST APIs, and micro-frontend architecture. My focus is on building scalable solutions that prioritize code quality, user experience, and maintainability.
 
 - 📍 **Location:** Islamabad, Pakistan
 - 📧 **Email:** [contact@ahmedbillal8@gmail.com](mailto:contact@ahmedbillal8@gmail.com)
